@@ -13,4 +13,4 @@ dependencies:
   - dask
   - plotly
   - seaborn
-  - cufflinks
+  - python-cufflinks=0.17.0
