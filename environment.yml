@@ -12,3 +12,5 @@ dependencies:
   - bokeh
   - dask
   - plotly
+  - seaborn
+  - cufflinks
